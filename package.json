@@ -1,6 +1,6 @@
 {
-  "name": "react-contenteditable",
-  "version": "3.3.7",
+  "name": "@fukutotojido/react-contenteditable",
+  "version": "3.3.8",
   "description": "React component representing an element with editable contents",
   "main": "./lib/react-contenteditable.js",
   "types": "./lib/react-contenteditable.d.ts",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lovasoa/react-contenteditable.git"
+    "url": "https://github.com/fukutotojido/react-contenteditable.git"
   },
   "devDependencies": {
     "@types/react": "^17.0.2",
